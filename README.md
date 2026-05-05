@@ -22,6 +22,10 @@ CerBurger is a modern, user-friendly, and fully responsive burger restaurant lan
 
 
 
+
+
+
+
 ---
 **Developed with Passion by Ege (Cerbege)** 🚀  
 *Freelance Digital Service Provider*
