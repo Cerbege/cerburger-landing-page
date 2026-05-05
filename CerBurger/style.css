@@ -318,7 +318,7 @@ align-items: center;
         height: 80px;          
     }
     .hero-section {
-        height: 400px; 
+        height: 270px; 
     }
     .info-section {
         flex-direction: column; 
@@ -412,6 +412,7 @@ align-items: center;
         flex-wrap: wrap;        
         justify-content: center;
     }
+
 
     .nav-links a {
         font-size: 13px;       
